@@ -40,7 +40,7 @@
             <input type="password" name="password" placeholder="Create password">
         </div>
         <div class="checkbox-container">
-            <label for="terms"><a href="http://127.0.0.1:8000/login">already has account</a></label>
+            <label for="terms"><a href="{{route('login')}}">already has account</a></label>
         </div>
         <button type="submit">Create Account</button>
     </form>

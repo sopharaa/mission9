@@ -96,7 +96,7 @@
 
                         <div class="links">
                             <a href="#">Forgot Password</a>
-                            <a href="http://127.0.0.1:8000/register">Signup</a>
+                            <a href="{{route('register')}}">Signup</a>
                         </div>
 
                         <div class="inputBox">
