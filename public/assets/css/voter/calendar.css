@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+
+.calendar{
+  font-size: 24px;
+  padding: 10px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  text-align: center;
+  height: 500px;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  margin: 50px 0px;
+  box-shadow: 0px 0px 2px black;
+}
+#countdown{
+  font-size: 150px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+#countdown1{
+  color: #BF0A30;
+}

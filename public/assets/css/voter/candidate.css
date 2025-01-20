@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+.h1{
+    background:linear-gradient(10deg, #002868,#002868 );
+    width: 80%;
+    height: 50px;
+    background-color: hotpink;
+}
+.h1 h3{
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+.candidate{
+    width:100%;
+
+    margin:50px 0px;
+    /* background-color: black; */
+}
+.candidate hr{
+    border: 0;
+    border-top: 8px solid rgb(0, 0, 0);
+}
+.candidate .information{
+    width: 100%;
+    border: 1px solid black;
+}
+.candidate .information .candidate2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: auto;
+    width: 100%;
+    overflow: hidden;
+}
+.candidate .information .candidate2 .box{
+    margin-top: 20px;
+    width: 25%;
+    box-shadow: 0px 0px 5px black;
+    height: 100%;
+    border: 1;
+    border-radius: 20px;
+    overflow: hidden;
+}
+.candidate .information .candidate2 .box img{
+   width: 100%;
+   height: 400px;
+   align-items: center;
+   margin: auto;
+}
+.candidate .information .candidate2 .decription{
+    width: 70%;
+    overflow: hidden;
+    height: 400px;
+    background-color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 70px;
+}
+.candidate .information .candidate2 .decription p span{
+    color: #BF0A30;
+}
+
+
